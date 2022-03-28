@@ -1,0 +1,18 @@
+Profile listing view
+- Able to sync data from API (done)
+- Able to swipe to perform actions (edit/delete) UI (done)
+- Able to delete profile (done)
+- Able to show favorite listing (done, however, the same person can be "favourited" twice)
+- Able to filter (search) in the listing (not completed)
+- Able to goto email app onClick [Send Email] button (not completed)
+
+Profile detail view
+- Able to make favorite / unfavorite (done, however, the star button just displays visual effect rather than 
+storing the person under favourites)
+- Able to goto email app onClick [Send Email] button (done)
+
+Manage profile view
+- Able to edit / delete profile (not completed)
+
+I have listed out the tasks that I managed to finish over the weekend. I could not continue working on 
+fixing some of them due to time constraints as I have few assignment deadlines nearing. 
